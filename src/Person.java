@@ -9,6 +9,11 @@ public class Person {
         this.age = age;
     }
 
+    public static int compare(Person a, Person b) {
+        return 0;
+    }
+
+
     public String getName() {
         return name;
     }
